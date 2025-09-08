@@ -1,4 +1,4 @@
-# DATA 2024 - Paper: Anomaly Detection in Industrial Production Products Using OPC-UA and Deep Learning
+## DATA 2024 - Paper: Anomaly Detection in Industrial Production Products Using OPC-UA and Deep Learning
 
 In the realm of industrial manufacturing, detecting defects in products is critical for maintaining quality. Traditional
 methods relying on human inspection are often error-prone and time-consuming. However, advancements
@@ -14,7 +14,9 @@ OPC-UA server and YOLO v8 model integration. Results indicate efficient communic
 Trip Times, highlighting the potential of this approach for defect detection. The code is available at GitHub:
 https://github.com/hvelesaca/OPC-UA-YOLOv8-Lid-Anomaly-Detection, facilitating further research.
 
-
+## Award
+🥇 Best Poster Award
+ 
 ## DATASET
 
 https://www.kaggle.com/datasets/hvelesaca/tinplateliddata2024
