@@ -11,3 +11,8 @@ image acquisition, and YOLO v8 implementation, is detailed, followed by the perf
 OPC-UA server and YOLO v8 model integration. Results indicate efficient communication with low Round
 Trip Times, highlighting the potential of this approach for defect detection. The code is available at GitHub:
 https://github.com/hvelesaca/OPC-UA-YOLOv8-Lid-Anomaly-Detection, facilitating further research.
+
+
+## DATASET
+
+https://www.kaggle.com/datasets/hvelesaca/tinplateliddata2024
