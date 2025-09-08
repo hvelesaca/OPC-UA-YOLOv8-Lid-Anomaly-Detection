@@ -18,5 +18,4 @@ https://github.com/hvelesaca/OPC-UA-YOLOv8-Lid-Anomaly-Detection, facilitating f
 🥇 Best Poster Award
  
 ## DATASET
-
-https://www.kaggle.com/datasets/hvelesaca/tinplateliddata2024
+Dataset is available in Kaggle: https://www.kaggle.com/datasets/hvelesaca/tinplateliddata2024
